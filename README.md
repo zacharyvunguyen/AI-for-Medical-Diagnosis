@@ -42,7 +42,11 @@ Class Imbalance:
 
 ---
 ### Resampling to Achieve Balanced Classes
-<br>
+
 ![](images/screenshots/week 1/Screen Shot 2022-06-29 at 1.54.25 PM.png)
-<br>
+
 ![](images/screenshots/week 1/Screen Shot 2022-06-29 at 1.54.41 PM.png)
+
+---
+### Multi-Task
+![](images/screenshots/week 1/img.png)
