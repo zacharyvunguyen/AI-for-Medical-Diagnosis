@@ -3,8 +3,8 @@
 ---
 ## Handling Class Imbalance and Small Training Sets
 ### Building and Training a Model for Medical Diagnosis
-Building an algorithm to identify whether an X-Ray image has a mass or not
-<br>
+
+Building an algorithm to identify whether an X-Ray image has a mass or not <br>
 ![](images/screenshots/week 1/Screen Shot 2022-06-29 at 12.58.37 PM.png)
 <br>
 ![](images/screenshots/week 1/Screen Shot 2022-06-29 at 12.58.52 PM.png)
